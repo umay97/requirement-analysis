@@ -50,3 +50,35 @@ Requirement Analysis is a crucial phase in the Software Development Life Cycle (
 * Verify that requirements align with business objectives and user needs.
 * Review and confirm with stakeholders through walkthroughs and reviews.
 * Ensure that requirements are testable and traceable for future implementation.
+ Here’s the content you can directly insert into your `README.md` under a new section titled **“Types of Requirements”** with two clearly defined subsections:
+
+
+##  Types of Requirements
+
+In software engineering, requirements are typically divided into **Functional** and **Non-functional** categories. Understanding this distinction helps in designing systems that are both capable and reliable.
+
+###  Functional Requirements
+
+**Definition:**
+Functional requirements describe what the system should do — the features, services, and operations it must support. These are directly related to the user's needs and the tasks the system must perform.
+
+**Examples for Booking Management System:**
+
+* Users can register and log in using their email and password.
+* A customer can book a service (e.g., a hotel room or an appointment) for a specific date and time.
+* Users can cancel or modify their bookings before a certain deadline.
+* Administrators can view and manage all bookings.
+* The system sends email confirmations after successful bookings.
+
+###  Non-functional Requirements
+
+**Definition:**
+Non-functional requirements specify how the system performs its functions. They include performance, usability, security, reliability, and other quality attributes.
+
+**Examples for Booking Management System:**
+
+* The system shall respond to booking requests within 2 seconds under normal load.
+* User data must be encrypted during transmission and at rest.
+* The platform must be accessible 24/7 with 99.9% uptime.
+* The interface shall support responsive design for both mobile and desktop users.
+* The system must support up to 10,000 concurrent users without degradation in performance.
