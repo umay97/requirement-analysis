@@ -82,3 +82,20 @@ Non-functional requirements specify how the system performs its functions. They 
 * The platform must be accessible 24/7 with 99.9% uptime.
 * The interface shall support responsive design for both mobile and desktop users.
 * The system must support up to 10,000 concurrent users without degradation in performance.
+  
+** Use Case Diagrams 📊**
+Objective: Visual representation of interactions between users and the system.
+
+What are Use Case Diagrams?
+
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+Creating Use Case Diagrams:
+
+Identify actors (e.g., guest, registered user, admin).
+Define use cases (e.g., search properties, book property, manage listings).
+Draw interactions between actors and use cases.
+Benefits of Use Case Diagrams:
+
+Provide a clear visual representation of system functionalities.
+Help in identifying and organizing system requirements.
+Facilitate communication among stakeholders and development team.
