@@ -84,6 +84,8 @@ Non-functional requirements specify how the system performs its functions. They 
 * The system must support up to 10,000 concurrent users without degradation in performance.
   
 ** Use Case Diagrams 📊**
+![Use Case Diagram](./diagrams/alx-booking-uc.png)
+
 Objective: Visual representation of interactions between users and the system.
 
 What are Use Case Diagrams?
