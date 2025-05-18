@@ -86,7 +86,7 @@ Non-functional requirements specify how the system performs its functions. They 
 ** Use Case Diagrams 📊**
 
 Objective: Visual representation of interactions between users and the system.
-
+![Diagramme de Cas d'Utilisation](https://github.com/user-attachments/assets/751271a7-1f82-475b-82ab-0e71ca9db6f4) 
 What are Use Case Diagrams?
 
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
